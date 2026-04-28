@@ -1,0 +1,5 @@
+pandas
+sodapy
+rich
+pyarrow
+pydantic
