@@ -110,4 +110,4 @@ y `src/gui/` estan excluidos del paquete publico por defecto.
 
 ## Licencia
 
-MIT. Ver `LICENSE`.
+Apache 2.0. Ver `LICENSE`.
